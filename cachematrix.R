@@ -33,5 +33,3 @@ cacheSolve <- function(x, ...) {
   m
 }
 
-$git config --global user.email "marcostorresbh@outlook.com"
-$git config --global user.name "Marcos Torres"
